@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Suryan</h1>
 <h3 align="center">Passionate Core Java enthusiast with proficiency in JavaScript, HTML, and CSS</h3>
 <img align="center" src="https://github.com/geniusuraj/geniusuraj/blob/main/banner.gif"/>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="geniusuraj" /> </p> -->
+
 
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://akhil368.github.io/)
@@ -10,11 +10,10 @@
 
 - 📫 How to reach me **akhil.suryan.18@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16lTmKm-vV6VBa935OiXVvnNujPQWW4At/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wY9a3dxrMs_uvhgn9pgrtXEIt5xyDCMb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/geniusuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geniusuraj" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/akhil-suryan-1b9367239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilsuryan" height="30" width="40" /></a>
 
 </p>
